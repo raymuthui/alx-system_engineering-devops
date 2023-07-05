@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.html -type f .. update
+#find . -name "*.html" -type f -exec cp --update -t .. {} +
