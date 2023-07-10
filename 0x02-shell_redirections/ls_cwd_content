@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 kali kali 4096 Jul 10 21:59 .
+drwxr-xr-x 6 kali kali 4096 Jul 10 20:40 ..
+-rwxr--r-- 1 kali kali   32 Jul 10 20:49 0-hello_world
+-rwxr--r-- 1 kali kali   28 Jul 10 20:53 1-confused_smiley
+-rwxr--r-- 1 kali kali   28 Jul 10 20:55 2-hellofile
+-rwxr--r-- 1 kali kali   39 Jul 10 20:56 3-twofiles
+-rwxr--r-- 1 kali kali   33 Jul 10 20:57 4-lastlines
+-rwxr--r-- 1 kali kali   33 Jul 10 20:58 5-firstlines
+-rwxr--r-- 1 kali kali   30 Jul 10 21:13 6-third_line
+-rwxr--r-- 1 kali kali   83 Jul 10 21:55 7-file
+-rwxr--r-- 1 kali kali   37 Jul 10 21:58 8-cwd_state
+-rw-r--r-- 1 kali kali    0 Jul 10 21:59 ls_cwd_content
+-rw-r--r-- 1 kali kali   36 Jul 10 20:48 README.md
